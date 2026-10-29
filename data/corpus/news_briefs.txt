@@ -1,0 +1,15 @@
+Fictional sample corpus created for demonstration purposes. All companies and people are invented.
+
+Northwind Financial acquired Larkspur Analytics in March 2025. Larkspur Analytics is headquartered in Toronto. Maya Chen is the CEO of Larkspur Analytics. After the deal, Maya Chen joined Northwind Financial as Chief Data Officer.
+
+Northwind Financial is headquartered in Toronto. Daniel Okafor is the CEO of Northwind Financial. Northwind Financial partnered with Cobalt Cloud to migrate its data platform. Cobalt Cloud is headquartered in Seattle.
+
+Cobalt Cloud acquired Brightline Security in 2024. Priya Raman founded Brightline Security. Brightline Security is a subsidiary of Cobalt Cloud. Cobalt Cloud competes with Helix Compute.
+
+Helix Compute is headquartered in Austin. Helix Compute invested in Larkspur Analytics before the acquisition. Tomas Lindqvist is the CEO of Helix Compute. Helix Compute partnered with Granite Bank on a fraud detection pilot.
+
+Granite Bank is headquartered in Montreal. Granite Bank competes with Northwind Financial. Sofia Alvarez is the CEO of Granite Bank. Granite Bank acquired Meridian Payments in 2023.
+
+Meridian Payments is headquartered in Vancouver. Meridian Payments supplies Northwind Financial with card processing services. Arjun Mehta founded Meridian Payments. Larkspur Analytics supplies Granite Bank with credit risk models.
+
+Northwind Financial invested in Quill Robotics. Quill Robotics is headquartered in Waterloo. Maya Chen founded Quill Robotics before starting Larkspur Analytics. Quill Robotics partnered with Helix Compute on edge inference.

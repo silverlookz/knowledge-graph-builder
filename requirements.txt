@@ -1,0 +1,11 @@
+networkx>=3.2
+pyvis>=0.3.2
+matplotlib>=3.8
+scipy>=1.11
+streamlit>=1.33
+# Optional: LLM extraction + answers (enabled when OPENAI_API_KEY is set)
+langchain-core>=0.2
+langchain-openai>=0.1
+pydantic>=2.6
+# Dev
+pytest>=8.0
